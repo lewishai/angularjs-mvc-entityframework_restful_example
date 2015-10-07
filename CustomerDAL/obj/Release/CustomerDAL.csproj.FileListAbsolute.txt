@@ -1,0 +1,11 @@
+F:\Projects\Training\AngularJS\Examples\App\CustomerEntities\CustomerDAL\bin\Release\CustomerDAL.dll
+F:\Projects\Training\AngularJS\Examples\App\CustomerEntities\CustomerDAL\bin\Release\CustomerDAL.pdb
+F:\Projects\Training\AngularJS\Examples\App\CustomerEntities\CustomerDAL\bin\Release\CustomerEntities.dll
+F:\Projects\Training\AngularJS\Examples\App\CustomerEntities\CustomerDAL\bin\Release\EntityFramework.dll
+F:\Projects\Training\AngularJS\Examples\App\CustomerEntities\CustomerDAL\bin\Release\EntityFramework.SqlServer.dll
+F:\Projects\Training\AngularJS\Examples\App\CustomerEntities\CustomerDAL\bin\Release\CustomerEntities.pdb
+F:\Projects\Training\AngularJS\Examples\App\CustomerEntities\CustomerDAL\bin\Release\EntityFramework.xml
+F:\Projects\Training\AngularJS\Examples\App\CustomerEntities\CustomerDAL\bin\Release\EntityFramework.SqlServer.xml
+F:\Projects\Training\AngularJS\Examples\App\CustomerEntities\CustomerDAL\obj\Release\CustomerDAL.csprojResolveAssemblyReference.cache
+F:\Projects\Training\AngularJS\Examples\App\CustomerEntities\CustomerDAL\obj\Release\CustomerDAL.dll
+F:\Projects\Training\AngularJS\Examples\App\CustomerEntities\CustomerDAL\obj\Release\CustomerDAL.pdb

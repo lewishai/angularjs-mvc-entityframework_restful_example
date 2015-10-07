@@ -1,0 +1,9 @@
+F:\Projects\Training\AngularJS\Examples\App\CustomerEntities\CustomerEntities\bin\Release\CustomerEntities.dll.config
+F:\Projects\Training\AngularJS\Examples\App\CustomerEntities\CustomerEntities\bin\Release\CustomerEntities.dll
+F:\Projects\Training\AngularJS\Examples\App\CustomerEntities\CustomerEntities\bin\Release\CustomerEntities.pdb
+F:\Projects\Training\AngularJS\Examples\App\CustomerEntities\CustomerEntities\bin\Release\EntityFramework.dll
+F:\Projects\Training\AngularJS\Examples\App\CustomerEntities\CustomerEntities\bin\Release\EntityFramework.SqlServer.dll
+F:\Projects\Training\AngularJS\Examples\App\CustomerEntities\CustomerEntities\bin\Release\EntityFramework.xml
+F:\Projects\Training\AngularJS\Examples\App\CustomerEntities\CustomerEntities\bin\Release\EntityFramework.SqlServer.xml
+F:\Projects\Training\AngularJS\Examples\App\CustomerEntities\CustomerEntities\obj\Release\CustomerEntities.dll
+F:\Projects\Training\AngularJS\Examples\App\CustomerEntities\CustomerEntities\obj\Release\CustomerEntities.pdb

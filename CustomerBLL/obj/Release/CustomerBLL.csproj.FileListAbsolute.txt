@@ -1,0 +1,11 @@
+F:\Projects\Training\AngularJS\Examples\App\CustomerEntities\CustomerBLL\bin\Release\CustomerBLL.dll
+F:\Projects\Training\AngularJS\Examples\App\CustomerEntities\CustomerBLL\bin\Release\CustomerBLL.pdb
+F:\Projects\Training\AngularJS\Examples\App\CustomerEntities\CustomerBLL\bin\Release\CustomerDAL.dll
+F:\Projects\Training\AngularJS\Examples\App\CustomerEntities\CustomerBLL\bin\Release\CustomerEntities.dll
+F:\Projects\Training\AngularJS\Examples\App\CustomerEntities\CustomerBLL\bin\Release\EntityFramework.dll
+F:\Projects\Training\AngularJS\Examples\App\CustomerEntities\CustomerBLL\bin\Release\CustomerDAL.pdb
+F:\Projects\Training\AngularJS\Examples\App\CustomerEntities\CustomerBLL\bin\Release\CustomerEntities.pdb
+F:\Projects\Training\AngularJS\Examples\App\CustomerEntities\CustomerBLL\bin\Release\EntityFramework.xml
+F:\Projects\Training\AngularJS\Examples\App\CustomerEntities\CustomerBLL\obj\Release\CustomerBLL.csprojResolveAssemblyReference.cache
+F:\Projects\Training\AngularJS\Examples\App\CustomerEntities\CustomerBLL\obj\Release\CustomerBLL.dll
+F:\Projects\Training\AngularJS\Examples\App\CustomerEntities\CustomerBLL\obj\Release\CustomerBLL.pdb

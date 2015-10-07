@@ -1,0 +1,48 @@
+﻿td {
+    padding-right: 30px;
+}
+
+.red {
+    padding: 20px;
+    background-color: red;
+    color: #FFF;
+}
+
+.border {
+    border: solid 1px blue;
+}
+
+.base-class {
+    -webkit-transition: all cubic-bezier(0.250, 0.460, 0.450, 0.940) 0.5s;
+    transition: all cubic-bezier(0.250, 0.460, 0.450, 0.940) 0.5s;
+}
+
+    .base-class.my-class {
+        color: red;
+        font-size: 3em;
+    }
+
+.odd {
+    color: #0094ff;
+}
+
+.rowEvent {
+    color: #808080;
+}
+
+.my-input {
+    -webkit-transition: all linear 0.5s;
+    transition: all linear 0.5s;
+    background: transparent;
+}
+
+    .my-input.ng-invalid {
+        color: #a50e0e;
+        background: #6f041e;
+    }
+
+.sample-show-hide {
+    -webkit-transition: all linear 0.5s;
+    transition: all linear 0.5s;
+    background: transparent;
+}

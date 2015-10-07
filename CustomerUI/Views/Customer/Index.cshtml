@@ -1,0 +1,15 @@
+﻿@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<br />
+<br />
+
+<div ng-app="mycustomersApp" ng-controller="customersCtrl">
+    <div class="container">
+        <div ng-include="'/Templates/list_.html'">aa</div>
+        <div ng-include="'/Templates/Create_.html'">aab</div>
+    </div>
+</div>
+<script src="~/AppScripts/customer.js"></script>
