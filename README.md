@@ -24,7 +24,7 @@ List of projects of “manage customer” application:
 •	CustomerUI (AngularJs, MVC)
 
 
-Notes that in customer UI will be no C# controller file, it is be replaced by angularjs script files. CustomerAPI will works with CustomerBLL to controll business logic, CustomerBLL reference data layer (CustomerDAL) and CustomerDAL works CustomerEntities to query data.
+Notes that in customer UI will be no C# controller file, it is be replaced by angularjs script files. CustomerAPI will works with CustomerBLL to control business logic, CustomerBLL reference data layer (CustomerDAL) and CustomerDAL works CustomerEntities to query data.
 
 Security notes.
 At this application I don’t care about security for RESTFul webservice, enscrypt and descrypt connection string… you can do it more to don’t the simple application.
